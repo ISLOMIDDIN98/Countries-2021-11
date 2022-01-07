@@ -184,12 +184,6 @@
     color: var(--lighte-dark);
 
   }
-  .form {
-
-  }
-  .form-label {
-
-  }
 
   .country-search{
     font-weight: normal;
@@ -206,9 +200,7 @@
 
   }
 
-  .option-text{
 
-  }
 
   .information-about-countries {
   }
@@ -262,10 +254,6 @@
 
   /* Counrty-page */
 
-  .main-content-inner {
-  }
-  .country-page {
-  }
 
   .country-page-back-wrapper {
   margin-bottom: 80px;
